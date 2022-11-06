@@ -1,20 +1,15 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Michael Leung
-    - name: Languages
-      value: English
+- title: Michael Leung
 
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy
+    - title: Doctor of Philosophy (PhD)
       institution: Harvard T.H. Chan School of Public Health, Boston MA
       year: 2021
       description:
-        - PhD in Population Health Sciences, Epidemiology
-        - MS in Biostatistics
+        - Epidemiology, Population Health Sciences
+        - Dissertation: "Fetal Health & the Environment"
+        - Advisor: Dr. Marc Weisskopf
     - title: Master of Science
       institution: Queen's University
       year: 2015
