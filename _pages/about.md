@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow at Harvard T.H. Chan School of Public Health. My work primarily focuses on environmental and social factors experienced throughout the lifecourse, from in utero to adulthood, and how they influence health and disease. Some examples of my work include how exposures during pregnancy (e.g., air pollution, temperature, police violence) influence pregnancy and child outcomes (e.g., pregnancy loss, fetal growth); how infant growth affects mid-childhood outcomes (e.g., cognitive achievement, BMI); and in adult populations, how environmental factors like light at night relate to cardiometabolic conditions and cancer. I am an advocate for clear causal thinking, and love discussing directed acyclic graphs and g-methods.
+Test I am a Research Fellow at Harvard T.H. Chan School of Public Health. My work primarily focuses on environmental and social factors experienced throughout the lifecourse, from in utero to adulthood, and how they influence health and disease. Some examples of my work include how exposures during pregnancy (e.g., air pollution, temperature, police violence) influence pregnancy and child outcomes (e.g., pregnancy loss, fetal growth); how infant growth affects mid-childhood outcomes (e.g., cognitive achievement, BMI); and in adult populations, how environmental factors like light at night relate to cardiometabolic conditions and cancer. I am an advocate for clear causal thinking, and love discussing directed acyclic graphs and g-methods.
 
 Current areas of research:
 
