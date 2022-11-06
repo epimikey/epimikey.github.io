@@ -22,7 +22,7 @@ I am a Research Fellow at Harvard T.H. Chan School of Public Health. My work pri
 Current areas of research:
 
 - Climate change and fetal/child health
-- Methods to study pregnancy loss
-- Causal Inference
+- Causal inference methods
 - Target trial emulation
+- Spatial epidemiology
 - Environmental mixtures

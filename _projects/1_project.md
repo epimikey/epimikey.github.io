@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate Change
+title: Climate change and health
 description:
 img: assets/img/7.jpg
 importance: 1

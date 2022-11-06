@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Causal Inference
+title: Causal inference methods
 description:
 img: assets/img/12.jpg
 importance: 2
