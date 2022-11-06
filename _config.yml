@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Michael Leung # the website title (if blank, full name will be used instead)
 first_name: Michael
 middle_name:
 last_name: Leung
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: epimikey # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: epimikey # your Twitter handle
 linkedin_username: # your LinkedIn user name
