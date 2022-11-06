@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research fellow in the <a href='https://www.hsph.harvard.edu/environmental-health/'>Department of Environmental Health</a> and <a href='https://www.hsph.harvard.edu/weisskopf-lab/'>Environmental Neuroepidemiology Group</a> at Harvard T.H. Chan School of Public Health
+subtitle: Research fellow in the <a href='https://www.hsph.harvard.edu/environmental-health/'>Department of Environmental Health</a> and <a href='https://www.hsph.harvard.edu/weisskopf-lab/'>Weisskopf Lab</a> at Harvard T.H. Chan School of Public Health
 
 profile:
   align: right

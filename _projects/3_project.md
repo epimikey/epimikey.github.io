@@ -8,4 +8,9 @@ importance: 3
 category:
 ---
 
-Spatial epidemiology and mapping
+Historical redlining
+  - SLBT study
+  - environmental exposures
+
+Spatial confounding
+  - residential greenness
