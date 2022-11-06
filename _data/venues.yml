@@ -1,6 +1,12 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"AJE":
+  url: https://academic.oup.com/aje
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EHP":
+  url: https://ehp.niehs.nih.gov/
+
+"EClinicalMedicineMed":
+  url: https://www.thelancet.com/journals/eclinm/home
+
+"Adv Nutr":
+  url: https://academic.oup.com/advances
