@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Spatial epidemiology
+title: Spatial epidemiology and mapping
 description:
-img: assets/img/3.jpg
+img: assets/img/redline.jpg
 redirect:
 importance: 3
 category:
 ---
 
-Social Determinants
+Spatial epidemiology and mapping
