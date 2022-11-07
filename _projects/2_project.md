@@ -7,13 +7,14 @@ importance: 2
 category:
 ---
 
-Pregnancy loss
+<b>Pregnancy loss</b>
 - Novel method to study pregnancy loss
-- PM2.5 and pregnancy loss
 
-Target trial emulation
+<b>Target trial emulation</b>
 - statins and ALS
-- statins and survival
+- statins and survival among ALS
 
-Gene-environment interactions
+<b>Gene-environment interactions</b>
 - misclassification bias in assessment of gene-by-environment interactions
+
+<b>Mixtures epidemiology</b>

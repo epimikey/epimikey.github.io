@@ -26,5 +26,5 @@ Current areas of research:
 - Climate change and fetal/child health
 - Causal inference methods
 - Target trial emulation
-- Spatial epidemiology
+- Spatial epidemiology and mapping
 - Environmental mixtures
