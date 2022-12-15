@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
-descrption: see what i've been up to
+description: see what i've been up to
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
