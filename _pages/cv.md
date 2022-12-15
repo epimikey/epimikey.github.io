@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: cv
 descrption: see what i've been up to
 nav: true
 nav_order: 4
