@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /cv/
 title: cv
 description: curriculum vitae
 nav: true
