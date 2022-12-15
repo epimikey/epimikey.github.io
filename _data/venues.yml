@@ -1,16 +1,59 @@
 "IJE":
   url: https://academic.oup.com/ije
-  color: "#ffcc00"
+  color: "#FACE65"
 
 "AJE":
   url: https://academic.oup.com/aje
-  color: "#00369f"
+  color: "#C6D0E9"
+
+"OEM":
+  url: https://https://oem.bmj.com/
+  color: "#3398CC"
 
 "EHP":
   url: https://ehp.niehs.nih.gov/
+  color: "#006EB1"
 
 "EClinicalMedicineMed":
   url: https://www.thelancet.com/journals/eclinm/home
+  color: "#004795"
 
 "Adv Nutr":
   url: https://academic.oup.com/advances
+  color: "#CCD9BF"
+
+"BMJ Open":
+  url: https://bmjopen.bmj.com/
+  color: "#3F2E64"
+
+"Expos Health":
+  url: https://www.springer.com/journal/12403
+  color: "#9E1D22"
+
+"PloS One":
+  url: https://journals.plos.org/plosone/
+  color: "#CD00A7"
+
+"J Sleep Res":
+  url: https://onlinelibrary.wiley.com/journal/13652869
+  color: "#364668"
+
+"BMJ":
+  url: https://www.bmj.com/
+  color: "#2A6DBB"
+
+"Lancet GH":
+  url: https://www.thelancet.com/journals/langlo/home
+  color: "#930439"
+
+"Am J Hum Biol":
+  url: https://onlinelibrary.wiley.com/journal/15206300
+  color: "#DAA67E"
+
+"Chronobiol Int":
+  url: https://www.tandfonline.com/toc/icbi20/current
+  color: "#10147F"
+
+"CEBP":
+  url: https://aacrjournals.org/cebp
+  color: "#006778"
