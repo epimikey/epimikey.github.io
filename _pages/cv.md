@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
-description: curriculum vitae
+title: CV
+descrption: see what i've been up to
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
