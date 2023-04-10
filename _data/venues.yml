@@ -1,3 +1,11 @@
+"EPID":
+  url: https://journals.lww.com/epidem/pages/default.aspx
+  color: "#0061a5"
+
+"AHAQ":
+  url: https://www.springer.com/journal/11869
+  color: "#30a4d4"
+
 "IJE":
   url: https://academic.oup.com/ije
   color: "#FACE65"
