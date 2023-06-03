@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research fellow in the <a href='https://www.hsph.harvard.edu/environmental-health/'>Department of Environmental Health</a> and <a href='https://www.hsph.harvard.edu/weisskopf-lab/'>Weisskopf Lab</a> at Harvard T.H. Chan School of Public Health
+subtitle: Postdoctoral Research Fellow in the <a href='https://www.hsph.harvard.edu/environmental-health/'>Department of Environmental Health</a> and <a href='https://www.hsph.harvard.edu/weisskopf-lab/'>Weisskopf Lab</a> at Harvard T.H. Chan School of Public Health
 
 profile:
   align: right
@@ -25,6 +25,6 @@ Current areas of research:
 
 - Climate change and fetal/child health
 - Causal inference methods
+- Environmental mixtures
 - Target trial emulation
 - Spatial epidemiology and mapping
-- Environmental mixtures
